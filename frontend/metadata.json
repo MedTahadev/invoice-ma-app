@@ -1,0 +1,5 @@
+{
+  "name": "Invoice.ma - Moroccan Invoice Generator",
+  "description": "A comprehensive invoice management application for Moroccan freelancers and businesses. Supports bilingual (French/Arabic) interfaces, local tax and legal requirements (ICE, IF, TVA), and PDF generation. Features AI-powered assistance for generating item descriptions and email content.",
+  "requestFramePermissions": []
+}
